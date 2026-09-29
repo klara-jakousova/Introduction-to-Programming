@@ -1,3 +1,3 @@
-print("Dobrý den")
+print("Cauky")
 jmeno = input("Zadejte své jméno: ")
-print(f"Dobrý den,{jmeno}!")
+print(f"Cauky,{jmeno}!")

@@ -1,2 +1,2 @@
 #Changelog
-neformální pozdrav
+Přidán neformální pozdrav
